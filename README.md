@@ -33,4 +33,4 @@ Most of my professional work is maintained in employer-managed repositories. Tho
 
 ### Contact
 
-[Portfolio](https://muhammad-uqba-waseem.snowyloom5.chatgpt.site) · [Email](mailto:uqbawaseem1234@gmail.com) · [GitHub](https://github.com/uqbawaseem)
+[Portfolio](https://muhammad-uqba-waseem.netlify.app) · [Email](mailto:uqbawaseem1234@gmail.com) · [GitHub](https://github.com/uqbawaseem)
