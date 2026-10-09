@@ -27,6 +27,10 @@ Rails is my main stack. I've worked on multi-tenant SaaS applications, backgroun
 
 Most of my professional work is maintained in employer-managed repositories. Those codebases are not reproduced here.
 
+### Personal projects
+
+**[Webhook Processing Lab](https://github.com/uqbawaseem/webhook-processing-lab)** — A Rails API for signed webhook ingestion, duplicate delivery handling, durable processing, retries and controlled replay. Includes request and service specs, a sample event sender, and notes on the design's limits. Built independently with synthetic data.
+
 ### Contact
 
 [Email](mailto:uqbawaseem1234@gmail.com) · [GitHub](https://github.com/uqbawaseem)
