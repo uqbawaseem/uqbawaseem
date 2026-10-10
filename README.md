@@ -1,4 +1,4 @@
-# Muhammad Uqba Waseem
+# Muhammad Uqba
 
 **Senior Full Stack Developer · Ruby on Rails, React & AWS**
 
