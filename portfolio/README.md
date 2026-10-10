@@ -1,8 +1,8 @@
 # Personal portfolio
 
-Live website: https://muhammad-uqba-waseem.snowyloom5.chatgpt.site
+Live website: https://muhammad-uqba-waseem.netlify.app
 
-A static personal portfolio for Muhammad Uqba Waseem. Includes HTML, CSS, JavaScript and public project preview images reused from the existing DostCode portfolio.
+A static personal portfolio for Muhammad Uqba. Includes HTML, CSS, JavaScript and public project preview images reused from the existing DostCode portfolio.
 
 ## Run locally
 
